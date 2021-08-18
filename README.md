@@ -4,3 +4,10 @@
 
 _It's been giving me a touch time , but i think i finally cracked it_
 
+##Some of my major features 
+
+*i Like to source for knowledge
+
+*Crack the Code on my own i learn alot this way
+
+*And consistent growth
