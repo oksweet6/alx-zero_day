@@ -1,0 +1,3 @@
+"git pull"
+"git fetch origin"
+or git pull --no-commit origin
